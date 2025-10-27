@@ -1,58 +1,73 @@
-# M Pavan Kumar
+# Hi there 👋 I'm Pavan Kumar
 
-**Senior Database Engineer | Power BI Specialist | Product Specialist**
+### 🎯 What I Do
+I love building analytics solutions with **SQL**, **Power BI**, **Python**, and automating **ETL pipelines**. I turn complex data into actionable insights and engineer scalable data infrastructure that drives business decisions.
 
----
-
-## Professional Summary
-Product Specialist (7+ years) with deep hands-on experience in data analytics and engineering for Healthcare and Banking domains. Expert in database optimization (T-SQL, Postgres, MySQL), ETL automation (SSIS, Python), Power BI dashboarding, and cloud migration (AWS/GCP). Skilled in leadership, mentoring, and streamlining analytics for business impact.
+💡 *"Data is the new oil, but ETL is the refinery – and I'm the one building the pipelines!"*
 
 ---
 
-## Key Skills
-- **Databases:** T-SQL, Postgres, Oracle, MySQL, NoSQL
-- **ETL & Reporting:** SSIS, SSRS, Power BI, DAX, Tabular Models
-- **Data Warehousing:** Star & Snowflake Schema, Data Modeling, Dimensional Modeling, Data Cleansing
-- **Tools:** SQL Profiler, DB Engine Tuning Advisor, Visual Studio, Excel, Power Query, Power Pivot
-- **Programming:** Python (basic), SQL optimization
-- **Cloud:** AWS, GCP
-- **Soft skills:** Team leadership, Mentoring, Business Analysis, Client Communication, Documentation
+## 🛠️ Skills & Tools
+
+### Databases & Query Languages
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ETL & Data Engineering
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Business Intelligence & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## Experience
-### Cognizant, Bengaluru (Aug 2021 – Present)
-- Optimized complex T-SQL queries and applied advanced performance tuning to boost efficiency by 30%
-- Delivered interactive Power BI dashboards with advanced DAX, reducing reporting turnaround by 25%
-- Streamlined ETL (SSIS), reducing manual load time by 40%
-- Mentored 5 junior analysts for 95% on-time analytics delivery
+## 🚀 Featured Projects
 
-### Happay, Bengaluru (May 2019 – May 2021)
-- Authored complex SQL queries for 20+ recurring business reports
-- Automated reporting with SQL and Excel templates, saving 15 hours/month
-- Enforced data integrity, reducing manual checks by 25%
+### 📊 [AtliQ Business 360 Dashboard](https://github.com/pavankumarM1998)
+> Unified Power BI dashboard for sales, finance, and supply chain analytics
+- Processed **1M+ records** from MySQL/Excel
+- Optimized with DAX Studio: **30% storage reduction**, **10% performance boost**
+- Automated multi-department reporting
 
----
-
-## Project Experience
-- **AtliQ Business 360 Dashboard:** Unified Power BI dashboard for sales, finance, and supply chain; data from MySQL/Excel (1M+ records); optimized with DAX Studio; storage cut by 30%, performance up 10%
-- **Claims Data Warehouse (Healthcare):** Automated SSIS pipelines, centralized mart for Facets claims (1M/month); increased validation by 20%; SSRS/Power BI reporting cut turnaround from 2 days to 4 hours
+### 🔧 More Projects
+Explore my **⭐ starred projects** below for more data engineering and analytics solutions!
 
 ---
 
-## Certifications & Awards
-- Microsoft Power BI Data Analyst (PL-300)
-- SQL Gold Badge (HackerRank)
-- Best Employee Award for BI Innovation
+## 📝 Latest Blog Posts & Learning
+- 🎓 Continuous learning in **Data Warehousing**, **Dimensional Modeling**, **Cloud Migration**
+- 📚 Exploring advanced **Python automation** for ETL workflows
+- 💼 Sharing insights on **SQL optimization** and **Power BI best practices**
 
 ---
 
-## Education
-B.Tech, Computer Science, JNTU Anantapur (2015–2019)
+## 📫 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavankumar-m/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavankumar@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavankumarM1998)
 
 ---
 
-## Contact
-- [LinkedIn](https://linkedin.com/in/m-pavan-kumar)
-- pavankumar.m1432@gmail.com
-- [GitHub](https://github.com/pavankumarM1998)
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavankumarM1998&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumarM1998&layout=compact&theme=radical)
+
+---
+
+*Building the future, one pipeline at a time* 🚀
