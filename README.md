@@ -99,7 +99,7 @@ A unified Power BI analytics dashboard covering Sales, Finance, and Supply Chain
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavankumarM1998&theme=nord" alt="Streak Stats" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=pavankumarM1998&theme=nord" alt="Streak Stats" width="98%" />
 </p>
 
 ---
