@@ -91,24 +91,7 @@ A unified Power BI analytics dashboard covering Sales, Finance, and Supply Chain
 
 ---
 
-## 📊 GitHub Metrics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pavankumarM1998&theme=onedark&column=7" alt="Pavan's Trophies" width="98%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavankumarM1998&show_icons=true&theme=nord&border_radius=10" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumarM1998&layout=compact&theme=nord&border_radius=10" alt="Top Langs" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pavankumarM1998&theme=nord" alt="Streak Stats" width="98%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavankumarM1998&theme=react-dark" alt="Pavan's Activity Graph" width="98%" />
-</p>
 
 ---
 
