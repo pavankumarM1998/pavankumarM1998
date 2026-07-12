@@ -59,6 +59,15 @@ I am a passionate **Data Engineer** and **BI Specialist** dedicated to building 
 
 ## 🚀 Highlighted Projects
 
+### 🚗 [Veyro: End-to-End Real-Time Stream-to-Report Pipeline](https://github.com/pavankumarM1998/Veyro)
+A production-grade, end-to-end real-time streaming data platform and interactive analytics dashboard:
+*   **Real-Time Event Simulator**: FastAPI application generating live booking events, calculating dynamic fares, and surge rates.
+*   **Streaming Ingestion**: Asynchronous event streaming to Azure Event Hubs namespace using the Python SDK.
+*   **Databricks Medallion Architecture**: Spark Structured Streaming refining raw events (Bronze) into validated/watermarked records (Silver) and joining with lookup dimensions to produce a denormalized One Big Table (OBT) Delta Lake table (Gold).
+*   **Agentic Power BI Development**: 4-tab dashboard and semantic model built programmatically (.pbip format) using advanced developer skills.
+*   **Live DirectQuery Insights**: Interactive reports connected via Databricks SQL Warehouse to serve live updates with zero data latency.
+👉 **[Live Veyro Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYmY2MmVmNGEtNDY0NC00MWQxLWJkOTctYzY5MzhjNTJhNTBlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+
 ### 🌩️ [Advanced ADF Data Pipelines](https://github.com/pavankumarM1998/ADF-Project)
 Production-grade Azure Data Factory repository showcasing enterprise-ready integration patterns:
 *   **Watermark-Based CDC:** Incremental ingestion pipeline storing states in ADLS Gen2 checkpoints (`cdc.json`).
