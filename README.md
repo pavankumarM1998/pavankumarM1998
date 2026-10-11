@@ -59,6 +59,21 @@ I am a passionate **Data Engineer** and **BI Specialist** dedicated to building 
 
 ## 🚀 Highlighted Projects
 
+### 🛡️ [Real-Time Transaction Fraud & Anomaly Detection Platform](https://github.com/pavankumarM1998/Real-Time-Transaction-Fraud-Anomaly-Detection-Platform)
+A production-grade, enterprise Lakehouse platform for real-time transaction processing, anomaly detection, rolling velocity feature calculation, and low-latency machine learning inference powered by **Databricks**, **Spark Structured Streaming**, **Delta Lake**, **Unity Catalog**, and **MLflow**:
+*   **Medallion Lakehouse Architecture**: Staging in Unity Catalog Volumes, raw ingestion via Auto Loader, cleansed Silver domain entities with quarantine routing for rejects, and curated business decision tiers in Gold (BLOCK / REVIEW / ALLOW).
+*   **Stateful Streaming & Watermarking**: Micro-batch Spark Structured Streaming with stateful deduplication and 30-minute late-data watermarking (`transaction_timestamp`).
+*   **Rolling Velocity Windows & Feature Store**: Sliding 5-minute and 10-minute customer velocity burst aggregations (`txn_count_5m`, `txn_total_amount_5m`) combined with historical spending baseline ratios.
+*   **MLflow Model Governance**: Models optimized for PR-AUC registered under Unity Catalog (`fraud_dev.ml.fraud_detection_model`), with zero-downtime active model resolution via control status tables.
+*   **Auditability & Reconciliation**: Automated mathematical balance verification ($\text{Bronze} = \text{Silver} + \text{Quarantine}$) and idempotent recovery testing.
+
+### 👤 [Customer 360 CDC Platform](https://github.com/pavankumarM1998/Customer-360-CDC-Platform)
+A production-grade Databricks Lakehouse platform executing end-to-end Change Data Capture (CDC), Slowly Changing Dimensions (SCD Type 2), and Medallion Architecture processing for Customer 360 analytics:
+*   **Medallion Lakehouse Processing**: Multi-layer refinement across 8 domains (customers, addresses, subscriptions, products, orders, order items, payments, support tickets).
+*   **Incremental CDC Processing**: Automated change detection (`INSERT`, `UPDATE`, `DELETE`) with watermark tracking and reconciliation controls.
+*   **Slowly Changing Dimensions (SCD Type 2)**: Complete historical dimension versioning (`effective_start_date`, `effective_end_date`, `is_current`) for customer dimensions.
+*   **Unity Catalog & DAB Orchestration**: Centralized data governance, catalog isolation (`customer360_dev`), and modular Databricks Asset Bundles workflow orchestration.
+
 ### 🚗 [Veyro: End-to-End Real-Time Stream-to-Report Pipeline](https://github.com/pavankumarM1998/Veyro)
 A production-grade, end-to-end real-time streaming data platform and interactive analytics dashboard:
 *   **Real-Time Event Simulator**: FastAPI application generating live booking events, calculating dynamic fares, and surge rates.
