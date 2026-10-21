@@ -9,11 +9,50 @@
 
 ---
 
-### 🚀 Data Engineer & BI Specialist
+### 🚀 Consultant & Senior Data Engineer | 7+ Years Experience
 
-I am a passionate **Data Engineer** and **BI Specialist** dedicated to building high-performance, automated data pipelines (ETL/ELT), modeling clean data warehouses, and building interactive enterprise dashboards. I specialize in the Microsoft and Azure data stack (Azure Data Factory, Azure SQL, Power BI) along with scripting languages like SQL and Python to convert complex raw data into business intelligence.
+I am an accomplished **Consultant & Senior Data Engineer** (currently at **KPMG**) dedicated to building high-performance, automated data pipelines (ETL/ELT), modeling clean data warehouses, and building interactive enterprise dashboards. With **7+ years** of experience across enterprise consulting, banking, and healthcare domains, I specialize in the Microsoft and Azure data stack (Power BI, Microsoft SQL Server, Azure Data Factory, Azure SQL, Databricks) along with Python and SQL to convert complex raw data into executive business intelligence.
 
 > 💡 *"Data is the new oil, but ETL is the refinery — and I design the pipelines that keep it running."*
+
+---
+
+## 💼 Professional Experience
+
+<table>
+  <thead>
+    <tr>
+      <th>Role</th>
+      <th>Company</th>
+      <th>Period</th>
+      <th>Location</th>
+      <th>Key Focus Areas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Consultant</strong> 🟢 <em>(Current)</em></td>
+      <td><strong>KPMG</strong></td>
+      <td><code>Mar 2026 – Present</code></td>
+      <td>Bengaluru · Hybrid</td>
+      <td>Executive Power BI KPI Dashboards, SQL Data Modeling, Python Validation Automation</td>
+    </tr>
+    <tr>
+      <td><strong>Product Specialist - Technical</strong></td>
+      <td><strong>Cognizant</strong></td>
+      <td><code>Aug 2021 – Mar 2026</code></td>
+      <td>Bengaluru · Remote</td>
+      <td>Azure Data Factory, SSIS ETL Pipelines, T-SQL Query Optimization, Power BI/DAX</td>
+    </tr>
+    <tr>
+      <td><strong>SQL Developer / Customer Support</strong></td>
+      <td><strong>Happay</strong></td>
+      <td><code>May 2019 – May 2021</code></td>
+      <td>Bengaluru</td>
+      <td>Complex SQL Querying, Stored Procedures, Python (Pandas) Reporting Automation</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
